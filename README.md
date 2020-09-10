@@ -1,7 +1,7 @@
 # Hey developers, engineers, hackers. 
 **This is important!** We want to respect your valuable time so **_PLEASE_** timebox this exercise.
 
-Your current mission, should you choose to accept it, is to take a few (no more than two) hours to build a Orders REST API endpoint.
+Your current mission, should you choose to accept it, is to take a few (no more than two) hours to build an Orders REST API endpoint.
 
 ## What we would like to see from this exercise:
 * Create order endpoint
